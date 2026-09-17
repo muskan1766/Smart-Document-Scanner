@@ -82,7 +82,7 @@ Smart-Document-Scanner/
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/muskan1766/Smart-Document-Scanner.git
 cd Smart-Document-Scanner
 ```
 
